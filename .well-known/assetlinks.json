@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "my.com.daikin.app.staging",
+    "sha256_cert_fingerprints":
+    ["5B:A3:19:F1:65:F4:AD:0E:E4:37:78:79:D2:C9:6F:E3:80:21:AA:10:F2:2D:49:A8:F4:D4:22:0E:35:43:74:40"]
+  }
+}]
